@@ -19,9 +19,9 @@ The sheet overleaf explains how to use the app, ask us today if you have any pro
 4. You will receive a phone call from us once a week to make sure you are using the app. You will need to use the app for a *minimum of 6 weeks*. If we don't see any usage for 2 weeks in a row then *you will no longer be eligible to receive the vouchers.* 
 5. At the end of the trial, you will receive an extra £10 voucher for completing the online post evaluation.
 
-####We will arrange for you to come and collect your vouchers from our offices at 1 Lancaster Circus at a convenient time
+#### We will arrange for you to come and collect your vouchers from our offices at 1 Lancaster Circus at a convenient time
 
-###Any problems call 0121 303 1875, 10am-3pm, Monday to Wednesday 
+### Any problems call 0121 303 1875, 10am-3pm, Monday to Wednesday 
 
 # Important
 
