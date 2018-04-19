@@ -6,7 +6,7 @@
 1. Download the app from https://play.google.com/store/apps/details?id=com.fluidtime.android.ec.optimum
 2. Register with the app - and fill out your details within the app.
 3. Make sure you click to participate in the Birmingham Trial
-4. Fill out pre-trial survey online at ......
+4. Fill out pre-trial survey online at http://survey.tech-experience.at/index.php/survey/index
 5. Provide us with your name and phone number to receive a £10 voucher.
 6. The first 40 users will receive a complimentary portable phone charger to help with battery life.
 
@@ -15,9 +15,18 @@ The sheet overleaf explains how to use the app, ask us today if you have any pro
 ## Over the next six to ten weeks...
 1. Please keep the app running in the background on your phone. It will log your location and journey type.
 2. You will receive Optimum Points for walking, cycling and using the bus or train - you can earn up to £30 in vouchers during the project. There is xx 
+	* You earn 2 points per minute while walking - capped at 400 points per week
+	* You earn 2 points per minute while cycling - capped at 400 points per week
+	* You earn 4 points per minute while pm public transport (bus, train or metro) - capped at 400 points per week
 3. Plan your public transport journeys, both regular and irregular, using the app.
 4. You will receive a phone call from us once a week to make sure you are using the app. You will need to use the app for a *minimum of 6 weeks*. If we don't see any usage for 2 weeks in a row then *you will no longer be eligible to receive the vouchers.* 
-5. At the end of the trial, you will receive an extra £10 voucher for completing the online post evaluation.
+5. At the end of the trial:
+	* You will receive an extra £10 voucher for completing the online post evaluation.
+	* You can choose to receive your reward for OptimumPoints as a travelcard or as a Love2Shop voucher:-
+		* 2,280 OptimumPoints  = 1 £10 Swift Card for Bus + Midland Metro 
+		* 1,140 OptimumPoints  = 1 £5 multi-retailer shopping voucher
+		* You will only be able to convert a maximum of 6840 points to receive a maximum of £30 work of vouchers/cards
+
 
 #### We will arrange for you to come and collect your vouchers from our offices at 1 Lancaster Circus at a convenient time
 
